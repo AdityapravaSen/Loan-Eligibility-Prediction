@@ -46,7 +46,6 @@ The company wants to automate the loan eligibility process (real-time) based on 
     *If using offline data mention that and how they may obtain the data*
     
 3. Data processing/transformation scripts are being kept [here](https://github.com/AdityapravaSen/Loan-Eligibility-Prediction/blob/main/Loan-Eligibility-Prediction.ipynb)
-4. etc...
 
 
 ## Repo Owner-

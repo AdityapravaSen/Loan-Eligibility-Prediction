@@ -41,7 +41,7 @@ The company wants to automate the loan eligibility process (real-time) based on 
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here]() within this repo.
+2. Raw Data is being kept [here](https://github.com/AdityapravaSen/Loan-Eligibility-Prediction/tree/main/Datasets) within this repo.
 
     *If using offline data mention that and how they may obtain the data*
     
